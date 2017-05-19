@@ -1,5 +1,5 @@
 {
-  "HEADER": "Enter your email below to join the DFINITY community or log in <a href="http://slack.dfinity.com">here</a>!",
+  "HEADER": "Enter your email below to join the DFINITY community</a>!",
   "ENTER_EMAIL": "Enter Your Email Address",
   "ENTER_TOKEN": "Enter the invite token you were given",
   "TITLE": "Join the %s community on Slack!"
